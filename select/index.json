@@ -2,15 +2,15 @@
   "version": 1,
   "base_track": "ハルカ",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-25T01:31:45.161216Z",
+  "createdAt": "2026-03-27T12:55:03.348755Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "ハルカ",
       "artist": "YOASOBI",
-      "has_synced": true,
-      "path": "select/01_ハルカ_YOASOBI.lrc"
+      "has_synced": false,
+      "path": "select/01_ハルカ_YOASOBI.txt"
     },
     {
       "id": "lrclib_2",
@@ -123,7 +123,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_01_ハルカ_YOASOBI.lrc",
-      "repo_name": "vd3IlOjSUGQ"
+      "repo_name": "TVAXQbqJwFw"
     },
     {
       "id": "localdb_2",
@@ -132,6 +132,15 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_02_ハルカ_YOASOBI.lrc",
+      "repo_name": "vd3IlOjSUGQ"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_03_ハルカ_YOASOBI.lrc",
       "repo_name": "kCIWCPeZfho"
     }
   ]
